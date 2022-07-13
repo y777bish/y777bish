@@ -6,6 +6,7 @@
 
 * I'm keen on playing board games
 * I love swimming and playing tennis
+* I'm technology enthusiast
 * I'm interested in different types of culture (starting with literature, ending with architecture)
 * Wubba Lubba Dub Dub
 
