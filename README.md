@@ -1,4 +1,4 @@
-`cout << "hello, let me introduce myself" << endl`
+## hello, let me introduce myself
 
 👋 I'm Bartosz and I live in Central Europe, precisely in southern Poland.
 
