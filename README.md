@@ -8,7 +8,8 @@
 * Culture connoisseur (starting with literature and cinematography, ending with architecture)
 * Wubba Lubba Dub Dub (and other types of humor)
 
-<h4 align="left">Languages and Tools I can use:</h4>
+
+<h4 align="left">Languages and tools I can use:</h4>
 <p align="left"> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
   </a> 
