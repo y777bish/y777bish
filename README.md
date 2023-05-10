@@ -6,7 +6,6 @@
 
 * I'm keen on swimming, playing tennis and board games
 * Culture connoisseur (starting with literature and cinematography, ending with architecture)
-* Wubba Lubba Dub Dub (and other types of humor)
 
 <h4 align="left">Languages and tools I can use:</h4>
 <p align="left"> 
