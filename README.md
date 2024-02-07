@@ -2,9 +2,7 @@
 
 👋 I'm Bartosz and I live in Central Europe, precisely in southern Poland.
 
-🙌 I’m interested in web games development, social changes (by means of technology too) and solving logic puzzles.
-
-* I'm keen on swimming, playing tennis, board games and also kind of culture enthusiast (starting with literature and cinematography, ending with architecture).
+🙌 I’m interested in web games development, social changes (by means of technology too) and solving logic puzzles. I'm keen on swimming, playing tennis, board games. Also kind of technology, open-source and culture enthusiast (starting with literature and cinematography, ending with architecture).
 
 <h4 align="left">Languages and Tools I'm currently learning</h4>
 <p align="left">
