@@ -20,4 +20,4 @@
   </a> 
 </p>
 
-You can contact me via message, feel free to do it :).
+You can contact me via message, feel free to do it :)
